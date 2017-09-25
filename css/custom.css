@@ -1,0 +1,17 @@
+body{
+	background-color: lightseagreen;
+	color: grey;
+}
+
+a, h2, #days{
+	color: whitesmoke;
+}
+
+.navbar-default {
+    background-color: whitesmoke;
+    border-color: whitesmoke;
+}
+
+.navbar-default .navbar-brand {
+    color: grey;
+}
