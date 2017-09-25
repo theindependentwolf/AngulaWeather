@@ -1,4 +1,4 @@
-#Angular Weather App - Front End only
+##Angular Weather App - Front End only
 
 1. Register with open weather website and get an API key from there. 
 
